@@ -21,6 +21,7 @@ const Result = () => {
     if (q === '') {
       dispatch(fetchQuery1Data());
     } else if (q.query === 'SELECT * from users;') {
+      dispatch(fetchQuery1Data());
       ShowToastMessage('success', 'Query compiled successfully');
     } else if (q.query === 'SELECT * from users where gender="Male";') {
       dispatch(fetchQuery2Data());
