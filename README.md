@@ -22,7 +22,7 @@ It contains users' data according to queries. Data Grid provides `pagination` as
     "redux": "^4.2.1",
     "redux-thunk": "^2.4.2"
 
-## Predefined Queries
+## Available Queries
 
 `SELECT * from users;`
 
