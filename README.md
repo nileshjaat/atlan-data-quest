@@ -40,7 +40,7 @@ It contains users' data according to queries. Data Grid provides `pagination` as
 
 ## Performance
 
-Page load time of the application on localhost - 2.3s (measured with lighthouse by google in chrome dev tools)
+Page load time of the application on localhost - 1.8s (measured with lighthouse by google in chrome dev tools)
 
 ## Optimisations
 
